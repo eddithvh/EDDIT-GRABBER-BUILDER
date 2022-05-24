@@ -1,7 +1,7 @@
 # EDDIT-GRABBER-BUILDER
 Simply Discord token Grabber connected with YOUR WebHook.
 
-• Move client to desktop
+• Move client to desktop \n
 • Run as admin
 • Enter your webhook
 • (set options)
